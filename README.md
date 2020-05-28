@@ -1,2 +1,2 @@
 # TrainingProject
-Work done during pre internship
+Work done during internship
